@@ -1,0 +1,53 @@
+h1 {
+    text-align:center
+}
+
+.redtext {
+    color:red
+}
+
+.bluetext {
+    color:blue
+}
+
+.greentext {
+    color:green
+}
+
+.bigtext {
+    font-size:large
+}
+
+.smalltext {
+    font-size:x-small
+}
+
+.centeredtext {
+    text-align: center;
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+.fonthelvetica {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.multipleattributes {
+    font-size: large;
+    color: orange;
+    font-weight: bold
+}
+
+.styledFont {
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+img {
+    border-style: solid;
+    border-width: 100px;
+    border-color: orange;
+}
